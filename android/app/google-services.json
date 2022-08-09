@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356493040926",
+    "project_id": "mjpru-app-acc2c",
+    "storage_bucket": "mjpru-app-acc2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356493040926:android:a16dd6bd527c88b238fd0f",
+        "android_client_info": {
+          "package_name": "com.example.mjpru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356493040926-bla9s2gnm53lvrtucr4bf5b0b4ncd7ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mjpru_app",
+            "certificate_hash": "c99ef124386f2526d428a53d8fed25ba09e9f819"
+          }
+        },
+        {
+          "client_id": "356493040926-pdki3s2cpujptbqkh9v8refmbbul5842.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7-vglN-o6RmkpbFUjwzMtIo3G8HbHGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356493040926-pdki3s2cpujptbqkh9v8refmbbul5842.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
